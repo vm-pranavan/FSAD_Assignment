@@ -160,14 +160,6 @@ skillswap/
 - [Architecture Overview](docs/ARCHITECTURE.md)
 - [AI Usage Log & Reflection](docs/AI_USAGE_LOG.md)
 
-## 🎥 Demo Video
-
-[Watch the demo on Google Drive](YOUR_GOOGLE_DRIVE_LINK_HERE)
-
 ## 👤 Author
 
-**Pranavan Kumar** — BITS Pilani (2024TM93672)
-
----
-
-*Built as part of SE ZG503 Full Stack Application Development Assignment, BITS Pilani*
+**V M Pranavan** — BITS Pilani (2024TM93672)
