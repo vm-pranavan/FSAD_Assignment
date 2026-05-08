@@ -162,4 +162,4 @@ skillswap/
 
 ## 👤 Author
 
-**V M Pranavan** — BITS Pilani (2024TM93672)
+**V M Pranavan** — 2024TM93672
