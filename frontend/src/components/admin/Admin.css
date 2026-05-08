@@ -1,0 +1,21 @@
+.admin-filters {
+  display: flex;
+  align-items: center;
+  gap: var(--space-md);
+  padding: var(--space-md);
+  margin-bottom: var(--space-xl);
+}
+
+.admin-filters .filter-search {
+  flex: 1;
+}
+
+@media (max-width: 768px) {
+  .admin-filters {
+    flex-direction: column;
+  }
+  
+  .table-container {
+    font-size: var(--font-size-sm);
+  }
+}
